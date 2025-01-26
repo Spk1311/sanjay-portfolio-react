@@ -39,18 +39,18 @@ const Home = () => {
             </h3>
             <p>
               Hello! I'm Sanjay Kalsariya, a dedicated and passionate web
-              developer specializing in designing and developing dynamic,
-              visually appealing, and responsive websites. With expertise in
-              both front-end and back-end development, I strive to create
-              seamless, user-friendly interfaces that enhance the overall user
-              experience.
+              developer specializing in creating dynamic, visually appealing,
+              and responsive websites. With expertise in both front-end and
+              back-end development, I focus on designing seamless, user-friendly
+              interfaces that enhance the overall user experience.
             </p>
             <p className="margin-bottom">
-              My skills encompass crafting interactive and engaging web
-              applications using modern technologies, ensuring robust
-              performance, scalability, and aesthetic design. I am committed to
-              delivering quality solutions tailored to meet diverse client needs
-              while staying updated with the latest industry trends.
+              I excel at building interactive and engaging web applications
+              using modern technologies, ensuring robust performance,
+              scalability, and aesthetic design. Committed to delivering
+              high-quality solutions tailored to meet diverse client needs, I
+              stay up-to-date with the latest industry trends to provide
+              cutting-edge solutions.
             </p>
             <a href="#contact" className="btn hire-me">
               Hire Me

@@ -11,7 +11,7 @@ const About = () => {
     },
     {
       title: "Age",
-      data: "22",
+      data: "23",
     },
     {
       title: "Phone",
@@ -23,8 +23,8 @@ const About = () => {
     },
 
     {
-      title: "City",
-      data: "Gujarat",
+      title: "Country",
+      data: "India",
     },
     {
       title: "Freelancer",
@@ -33,16 +33,12 @@ const About = () => {
   ];
   const skill = [
     {
-      title: "HTML",
+      title: "HTML5, CSS3 and CSS libraries",
       per: "96%",
     },
     {
-      title: "CSS",
-      per: "86%",
-    },
-    {
-      title: "JS",
-      per: "86%",
+      title: "Javascript",
+      per: "90%",
     },
     {
       title: "Git & Github",
@@ -50,31 +46,31 @@ const About = () => {
     },
     {
       title: "PHP & MYSQL",
-      per: "76%",
+      per: "80%",
     },
     {
-      title: "REACT JS",
-      per: "86%",
+      title: "React & ReactJS",
+      per: "85%",
     },
     {
-      title: "Angular",
+      title: "Angular & Angular JS",
       per: "95%",
     },
     {
-      title: "NODE JS",
-      per: "76%",
+      title: "NODE JS & Express JS & MONGODB",
+      per: "75%",
     },
     {
-      title: "EXPRESS JS",
-      per: "76%",
-    },
-    {
-      title: "MONGODB",
-      per: "86%",
-    },
-    {
-      title: "Asp.net Core and MVC",
+      title: "ASP.NET Core, ASP.NET MVC & .NET Razor Pages",
       per: "95%",
+    },
+    {
+      title: "JIRA & BitBucket",
+      per: "95%",
+    },
+    {
+      title: "AWS Cloud Platform",
+      per: "70%",
     },
   ];
   const education = [
@@ -92,8 +88,8 @@ const About = () => {
   const experiance = [
     {
       date: "2024 - Present",
-      title: "Software Enginerring Intern",
-      text: "During my nine months at Samyak Infotech Private Limited, I honed my software engineering skills with a focus on .NET and Angular technologies. This valuable experience, gained within the current timeframe, provided me with practical insights into professional development practices.",
+      title: "JR. Software Enginerring",
+      text: "During my 1+ Year at Samyak Infotech Private Limited, I honed my software engineering skills with a focus on .NET and Angular technologies. This valuable experience, gained within the current time frame, provided me with practical insights into professional development practices.",
     },
     {
       date: "2023",
@@ -124,11 +120,14 @@ const About = () => {
             <div className="row">
               <div className="about-text">
                 <h3>
-                  I'm sanjay kalsariya and <span>Full stack Developer</span>
+                  I'm sanjay kalsariya and <span>Full Stack Developer</span>
                 </h3>
                 <p>
-                  Full stack Developer who focuses on writing clean, elegant and
-                  efficient code. Love HTML5, CSS3, MERN and a touch of jQuery.
+                  Full Stack Developer who focuses on writing clean, elegant,
+                  and efficient code. Passionate about building dynamic web
+                  applications using .NET, Angular, and MERN stack. Enjoy
+                  working with HTML5, CSS3, and always ready to add a touch of
+                  jQuery for interactive user experiences.
                 </p>
               </div>
             </div>
